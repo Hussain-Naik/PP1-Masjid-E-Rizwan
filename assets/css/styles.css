@@ -9,3 +9,11 @@
     padding: 0;
     border: none;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    height: 100vh;
+}
