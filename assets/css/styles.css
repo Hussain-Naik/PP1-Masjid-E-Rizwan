@@ -117,14 +117,18 @@ input:checked ~ nav #menu {
 }
 @media (max-width: 745px) {
 
-    nav {
+    nav #logo{
+        width: 745px;
+        left: 0;
+        padding-left: 2rem;
         position: fixed;
+        background-color: var(--color1); 
     }
 
     nav #menu {
         display: grid;
         background-color: var(--color1); 
-        position: inherit;
+        position: fixed;
         top: 75px;
         left: 25%;
         width: 100%;
@@ -135,5 +139,8 @@ input:checked ~ nav #menu {
 
     nav .menu-toggle {
         display: grid !important;
+        position: fixed;
+        right: 2rem;
+        z-index: 1;
     }
 }
