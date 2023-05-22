@@ -29,3 +29,14 @@ section {
     background-color: var(--color2);
     color: var(--color1);
 }
+
+body {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+}
+
+h1, h2 {
+    font-family: Arimo, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
