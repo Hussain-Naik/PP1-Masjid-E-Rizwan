@@ -67,3 +67,7 @@ nav #menu .menu-items {
     padding: 0 20px;
     transition: .4s;
 }
+
+nav #menu a {
+    color: var(--color2);
+}
