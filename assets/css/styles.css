@@ -69,6 +69,15 @@ nav #menu .menu-items {
     transition: .4s;
 }
 
+nav #menu .menu-items:hover {
+    background-color: var(--color2);
+    
+}
+
 nav #menu a {
     color: var(--color2);
+}
+
+nav #menu .menu-items:hover a {
+    color: var(--color1);
 }
