@@ -60,3 +60,10 @@ nav #logo {
 nav #menu {
     display: flex;
 }
+
+nav #menu .menu-items {
+    cursor: pointer;
+    height: 100%;
+    padding: 0 20px;
+    transition: .4s;
+}
