@@ -50,7 +50,7 @@ nav {
     justify-content: space-between;
     line-height: 75px;
     padding: 0 5%;
-    border-color: var(--color1);
+    background-color: var(--color1); 
 }
 
 nav #logo {
@@ -90,5 +90,27 @@ nav #menu .menu-items:hover a {
 
     nav #menu .menu-items {
         padding: 0 10px;
+    }
+}
+@media (max-width: 745px) {
+
+    nav {
+        position: fixed;
+    }
+
+    nav #logo {
+        width: 100%;
+    }
+
+    nav #menu {
+        display: grid;
+        background-color: var(--color1); 
+        position: inherit;
+        top: 75px;
+        left: 25%;
+        width: 100%;
+        z-index: 1;
+        transition: .6s;
+        /* transform: translateX(100%); */
     }
 }
