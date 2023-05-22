@@ -81,3 +81,14 @@ nav #menu a {
 nav #menu .menu-items:hover a {
     color: var(--color1);
 }
+
+@media (max-width: 870px) {
+
+    nav {
+        padding: 0 2rem;
+    }
+
+    nav #menu .menu-items {
+        padding: 0 10px;
+    }
+}
