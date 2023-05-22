@@ -82,6 +82,13 @@ nav #menu .menu-items:hover a {
     color: var(--color1);
 }
 
+nav .menu-toggle {
+    display: none;
+    height: min-content;
+    margin: 18px -10px 0 0;
+    cursor: pointer;
+}
+
 @media (max-width: 870px) {
 
     nav {
@@ -112,5 +119,9 @@ nav #menu .menu-items:hover a {
         z-index: 1;
         transition: .6s;
         /* transform: translateX(100%); */
+    }
+
+    nav .menu-toggle {
+        display: grid;
     }
 }
