@@ -51,3 +51,8 @@ nav {
     line-height: 75px;
     padding: 0 5%;
 }
+
+nav #logo {
+    color: var(--color2);
+    letter-spacing: 0.5px;
+}
