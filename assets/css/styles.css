@@ -35,8 +35,14 @@ body {
     font-weight: 300;
 }
 
+/* heading and logo */
+
 h1, h2 {
     font-family: Arimo, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
 }
