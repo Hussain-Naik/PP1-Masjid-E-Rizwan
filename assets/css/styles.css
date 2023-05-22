@@ -121,10 +121,6 @@ input:checked ~ nav #menu {
         position: fixed;
     }
 
-    nav #logo {
-        /* width: 745px; */
-    }
-
     nav #menu {
         display: grid;
         background-color: var(--color1); 
