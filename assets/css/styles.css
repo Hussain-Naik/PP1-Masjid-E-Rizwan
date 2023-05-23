@@ -105,6 +105,20 @@ input {
 input:checked ~ nav #menu {
     transform: translateX(0);
 }
+
+input:checked ~ nav .menu-toggle .bar:nth-child(1) {
+    transform: rotate(45deg);
+}
+
+input:checked ~ nav .menu-toggle .bar:nth-child(2) {
+    transform: rotate(-45deg);
+}
+
+input:checked ~ nav .menu-toggle .bar:nth-child(3) {
+
+    display: none;
+}
+
 @media (max-width: 870px) {
 
     nav {
