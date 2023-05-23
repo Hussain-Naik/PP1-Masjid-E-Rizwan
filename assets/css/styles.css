@@ -107,16 +107,21 @@ input:checked ~ nav #menu {
 }
 
 input:checked ~ nav .menu-toggle .bar:nth-child(1) {
+    position: absolute;
     transform: rotate(45deg);
+    margin-top: 15px;
+    right: 0;
 }
 
 input:checked ~ nav .menu-toggle .bar:nth-child(2) {
-    transform: rotate(-45deg);
+    display: none;
 }
 
 input:checked ~ nav .menu-toggle .bar:nth-child(3) {
-
-    display: none;
+    position: absolute;
+    transform: rotate(-45deg);
+    margin-top: 15px;
+    right: 0;
 }
 
 @media (max-width: 870px) {
