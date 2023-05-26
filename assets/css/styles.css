@@ -124,6 +124,18 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     right: 0;
 }
 
+
+/* Footer */
+
+footer {
+    height: 10%;
+}
+
+footer .social-networks {
+    display: flex;
+    justify-content: center;
+}
+
 @media (max-width: 870px) {
 
     nav {
