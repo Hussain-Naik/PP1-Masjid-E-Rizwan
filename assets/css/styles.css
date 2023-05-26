@@ -133,7 +133,14 @@ footer {
 
 footer .social-networks {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: var(--color2);
 }
 
 @media (max-width: 870px) {
