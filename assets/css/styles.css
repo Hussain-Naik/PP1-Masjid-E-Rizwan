@@ -167,4 +167,8 @@ footer .social-networks {
         right: 2rem;
         z-index: 1;
     }
+
+    hr {
+        height: 75px;
+    }
 }
