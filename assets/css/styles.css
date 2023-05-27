@@ -161,12 +161,13 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     text-transform: uppercase;
     letter-spacing: 4px;
     width: 300px;
-    height: 200px;
-    padding-top: 40px;
+    height: 230px;
+    padding-top: 10px;
     padding-left: 10px;
-    background-color: rgba(241, 109, 107, .7);
+    background-color: var(--color1);
+    opacity: 0.8;
     bottom: 30px;
-    right: 150px;
+    right: 10vw;
     position: absolute;
 }
 /* About Us */
@@ -222,7 +223,7 @@ footer .social-networks {
     color: var(--color2);
 }
 
-@media (max-width: 745px) {
+@media (max-width: 780px) {
 
     h2, h3 {
         text-align: center;
