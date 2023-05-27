@@ -168,18 +168,6 @@ footer .social-networks {
     color: var(--color2);
 }
 
-@media (max-width: 870px) {
-
-    nav {
-        padding: 0 2rem;
-    }
-
-    nav #menu .menu-items {
-        padding: 0 10px;
-        line-height: 30px;
-        height: 30px;
-    }
-}
 @media (max-width: 745px) {
 
     h2, h3 {
