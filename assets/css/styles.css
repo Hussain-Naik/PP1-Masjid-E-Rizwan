@@ -172,6 +172,7 @@ footer .social-networks {
 
     nav #menu .menu-items {
         padding: 0 10px;
+        line-height: 30px;
     }
 }
 @media (max-width: 745px) {
@@ -195,6 +196,7 @@ footer .social-networks {
         top: 75px;
         left: 25%;
         width: 100%;
+        height: calc(100vh - 75px);
         z-index: 1;
         transition: .6s;
         transform: translateX(100%);
