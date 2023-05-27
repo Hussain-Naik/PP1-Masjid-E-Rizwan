@@ -25,7 +25,7 @@ body {
 
 /* heading and logo */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Arimo, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -114,6 +114,8 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     margin-top: 15px;
     right: 0;
 }
+/* About Us */
+
 
 /* Events */
 
@@ -164,6 +166,10 @@ footer .social-networks {
     }
 }
 @media (max-width: 745px) {
+
+    h2, h3 {
+        text-align: center;
+    }
 
     nav #logo{
         width: 745px;
