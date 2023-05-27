@@ -195,6 +195,11 @@ footer .social-networks {
         transform: translateX(100%);
     }
 
+    nav #menu .menu-items {
+        line-height: 30px;
+        height: 30px;
+    }
+
     nav .menu-toggle {
         display: grid !important;
         position: fixed;
