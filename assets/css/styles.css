@@ -115,6 +115,29 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     right: 0;
 }
 
+/* Events */
+
+#events {
+    
+}
+
+#events .events-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
+}
+
+#events div{
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
 
 /* Footer */
 
