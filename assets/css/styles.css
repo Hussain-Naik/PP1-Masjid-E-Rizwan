@@ -265,7 +265,8 @@ footer .social-networks {
     }
 
     #hero-image {
-        height: 300px;
+        height: 260px;
+        background-position-x: 20%;
     }
 
     #events .events-container {
