@@ -116,6 +116,14 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 }
 /* About Us */
 
+#about {
+    width: 100%;
+}
+
+.about-container {
+    width: 90%;
+    margin: 0 auto;
+}
 
 /* Events */
 
