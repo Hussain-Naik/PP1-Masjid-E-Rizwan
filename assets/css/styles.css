@@ -187,6 +187,15 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 
 /* Events */
 
+#events {
+    background-image: url('../images/mosque-gathering.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
 #events .events-container {
     width: 100%;
     display: flex;
