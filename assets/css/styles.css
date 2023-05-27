@@ -264,6 +264,10 @@ footer .social-networks {
         height: 75px;
     }
 
+    #hero-image {
+        height: 300px;
+    }
+
     #events .events-container {
         flex-direction: column;
     }
