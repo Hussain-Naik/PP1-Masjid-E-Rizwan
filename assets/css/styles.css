@@ -125,7 +125,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     padding: 0;
 }
 
-#events div{
+.events-container div {
     background-color: rgba(0, 0, 0, .6);
     width: 20%;
     height: 300px;
@@ -194,5 +194,14 @@ footer .social-networks {
 
     hr {
         height: 75px;
+    }
+
+    #events .events-container {
+        flex-direction: column;
+    }
+
+    .events-container div{
+        width: 80%;
+        margin: auto;
     }
 }
