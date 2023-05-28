@@ -212,7 +212,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     height: 300px;
     padding: 30px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid var(--color2);
     box-sizing: border-box;
 }
 
@@ -291,10 +291,11 @@ footer .social-networks {
 
     #events .events-container {
         flex-direction: column;
+        background: var(--color2);
     }
 
     .events-container div{
-        width: 80%;
+        width: 300px;
         margin: auto;
     }
 
