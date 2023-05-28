@@ -33,7 +33,8 @@ h1, h2, h3 {
 }
 
 h2 {
-    background: var(--color1);
+    background: url('../images/background-design.png') center;
+    background-color: var(--color1);
     color: var(--color2);
 }
 
