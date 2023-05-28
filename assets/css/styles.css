@@ -171,6 +171,11 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     right: 10vw;
     position: absolute;
 }
+
+#cover-text h2{
+    background: var(--color1);
+}
+
 /* About Us */
 
 #about {
