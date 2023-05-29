@@ -49,6 +49,7 @@ nav {
 nav #logo {
     color: var(--color2);
     letter-spacing: 0.5px;
+    padding: 0;
 }
 
 nav #menu {
