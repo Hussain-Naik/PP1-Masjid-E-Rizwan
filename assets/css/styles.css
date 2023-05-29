@@ -184,7 +184,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     width: 100%;
 }
 
-.about-container {
+.container {
     width: 70%;
     margin: 0 auto;
 }
@@ -306,12 +306,12 @@ footer .social-networks {
         color: var(--color1);
     }
 
-    .about-container {
+    .container {
         width: 95%;
         margin: 0 auto;
     }
 
-    .about-container p{
+    .container p{
         width: 80%;
         margin: 5px auto;
     }
