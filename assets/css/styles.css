@@ -36,6 +36,7 @@ h2 {
     background: url('../images/background-design.png') center;
     background-color: var(--color1);
     color: var(--color2);
+    padding-left: 15%;
 }
 
 nav {
@@ -189,7 +190,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     margin: 0 auto;
 }
 
-.about-container h3 {
+.container h3 {
     padding-left: 0;
 }
 
@@ -314,5 +315,9 @@ footer .social-networks {
     .container p{
         width: 80%;
         margin: 5px auto;
+    }
+
+    section h2{
+        padding-left: 0;
     }
 }
