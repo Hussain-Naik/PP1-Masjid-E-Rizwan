@@ -249,7 +249,9 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     border-radius: 15px;
     color: var(--color2);
     margin: 20px auto;
-    width: 100px;
+    width: 25%;
+    min-width: 100px;
+    text-align: center;
 }
 
 /* Footer */
