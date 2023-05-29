@@ -222,6 +222,21 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 
 /* Contact us */
 
+
+#contact .container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-left {
+    color: var(--color1);
+    width: 50%;
+}
+
+.contact-right {
+    width: 50%;
+}
+
 .btn-contact {
     padding: 20px;
     background-color: var(--color1);
