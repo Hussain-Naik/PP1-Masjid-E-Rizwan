@@ -226,15 +226,16 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 #contact .container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .contact-left {
     color: var(--color1);
-    width: 50%;
+    width: 40%;
 }
 
 .contact-right {
-    width: 50%;
+    width: 40%;
 }
 
 .btn-contact {
@@ -244,7 +245,6 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     color: var(--color2);
     margin: 20px auto;
     width: 100px;
-    display: block;
 }
 
 /* Footer */
