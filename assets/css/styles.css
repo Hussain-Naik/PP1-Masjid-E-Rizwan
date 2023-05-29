@@ -220,6 +220,18 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     box-sizing: border-box;
 }
 
+/* Contact us */
+
+.btn-contact {
+    padding: 20px;
+    background-color: var(--color1);
+    border-radius: 15px;
+    color: var(--color2);
+    margin: 20px auto;
+    width: 100px;
+    display: block;
+}
+
 /* Footer */
 
 footer {
