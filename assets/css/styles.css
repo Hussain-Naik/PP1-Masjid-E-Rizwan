@@ -239,6 +239,10 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     width: 40%;
 }
 
+.contact-right li {
+    list-style: disc;
+}
+
 .btn-contact {
     padding: 20px;
     background-color: var(--color1);
@@ -347,5 +351,13 @@ footer .social-networks {
 
     section h2{
         padding-left: 0;
+    }
+
+    .contact-left {
+        width: 50%;
+    }
+    
+    .contact-right {
+        width: 50%;
     }
 }
