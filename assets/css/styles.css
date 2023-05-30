@@ -4,6 +4,7 @@
 :root {
     --color1: #50453f;
     --color2: #F6F8FF;
+    --color3: #7BAE7F;
 }
 
 * {
@@ -64,17 +65,24 @@ nav #menu .menu-items {
     transition: .4s;
 }
 
-nav #menu .menu-items:hover {
-    background-color: var(--color2);
-    
-}
-
 nav #menu a {
     color: var(--color2);
+    position: relative;
 }
 
-nav #menu .menu-items:hover a {
-    color: var(--color1);
+nav #menu a:after {
+    content: "";
+    position: absolute;
+    background-color: var(--color3);
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.2s;
+}
+
+nav #menu a:hover:after{
+    width: 100%;
 }
 
 nav .menu-toggle {
