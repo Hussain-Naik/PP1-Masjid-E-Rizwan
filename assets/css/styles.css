@@ -70,7 +70,7 @@ nav #menu a {
     position: relative;
 }
 
-nav #menu a:after {
+nav #menu a:after, .btn-contact a:after {
     content: "";
     position: absolute;
     background-color: var(--color3);
@@ -81,7 +81,7 @@ nav #menu a:after {
     transition: 0.2s;
 }
 
-nav #menu a:hover:after{
+nav #menu a:hover:after, .btn-contact a:hover:after {
     width: 100%;
 }
 
@@ -260,6 +260,11 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     width: 25%;
     min-width: 100px;
     text-align: center;
+}
+
+.btn-contact a {
+    position: relative;
+    color: var(--color2);
 }
 
 /* Footer */
