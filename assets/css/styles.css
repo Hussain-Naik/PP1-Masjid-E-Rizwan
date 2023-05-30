@@ -180,6 +180,15 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 
 #cover-text h2{
     background: var(--color1);
+    padding: 0;
+    text-align: center;
+    color: var(--color3);
+}
+
+#cover-text h3{
+    padding: 10px;
+    text-align: justify;
+    color: var(--color2);
 }
 
 /* About Us */
