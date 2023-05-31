@@ -70,7 +70,7 @@ nav #menu a {
     position: relative;
 }
 
-nav #menu a:after, .btn-contact a:after {
+nav #menu a::after, .btn-contact a::after {
     content: "";
     position: absolute;
     background-color: var(--color3);
@@ -81,7 +81,7 @@ nav #menu a:after, .btn-contact a:after {
     transition: 0.2s;
 }
 
-nav #menu a:hover:after, .btn-contact a:hover:after {
+nav #menu a:hover::after, .btn-contact a:hover::after {
     width: 100%;
 }
 
@@ -130,7 +130,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 /* hero image and cover text*/
 
 #hero-outer {
-    height: 600px;
+    height: calc(100vh - 75px);
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -138,7 +138,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
 }
 
 #hero-image {
-    height: 600px;
+    height: calc(100vh - 75px);
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center;
     background-position-x: 10%;
