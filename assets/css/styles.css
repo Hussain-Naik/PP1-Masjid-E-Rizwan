@@ -245,10 +245,12 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     color: var(--color1);
     width: 40%;
     background: url('../images/chat-image.png') no-repeat center center;
+    flex-grow: 1;
 }
 
 .contact-right {
     width: 40%;
+    flex-grow: 1;
 }
 
 .contact-right li {
@@ -377,6 +379,7 @@ footer .social-networks {
     }
     
     .contact-right {
-        width: 50%;
+        width: 45%;
+        margin-left: 5%;
     }
 }
