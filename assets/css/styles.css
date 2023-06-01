@@ -383,3 +383,11 @@ footer .social-networks {
         margin-left: 5%;
     }
 }
+
+@media (max-width: 400px) {
+    #cover-text {
+        width: 250px;
+        right: calc(50% - 125px);
+        padding: 0;
+    }
+}
