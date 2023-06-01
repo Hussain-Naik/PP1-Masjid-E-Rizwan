@@ -264,7 +264,7 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     color: var(--color2);
     margin: 20px auto;
     width: 25%;
-    min-width: 100px;
+    flex-shrink: 0;
     text-align: center;
 }
 
