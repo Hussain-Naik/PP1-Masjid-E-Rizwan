@@ -87,7 +87,6 @@ nav #menu a:hover::after, .btn-contact a:hover::after {
 
 nav .menu-toggle {
     display: none;
-    height: min-content;
     margin: 18px -10px 0 0;
     cursor: pointer;
 }
