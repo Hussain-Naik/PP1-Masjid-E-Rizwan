@@ -290,23 +290,34 @@ footer .social-networks {
     justify-content: center;
 }
 
-.prayer-times {
+.prayer-day {
     display: flex;
+    flex-direction: column;
     gap: 1rem;
     flex-wrap: wrap;
     width: 30%;
     justify-content: center;
+    align-items: center;
 }
 
-.prayer-times h3 {
-    width: 100%;
+.prayer-times {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.prayer-times span {
+    width: 70px;
+}
+
+.prayer-times span:nth-child(2) {
+    width: 50px;
     text-align: center;
 }
 
-.prayer-times .namaaz-start, .prayer-times .namaaz-jamaat {
+.prayer-times span:nth-child(3) {
     text-align: center;
 }
-
 @media (max-width: 780px) {
 
     h2, h3 {
