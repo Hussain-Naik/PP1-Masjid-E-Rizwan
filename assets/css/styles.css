@@ -149,18 +149,6 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     animation-fill-mode: forwards;
 }
 
-/* create the level of zoom for hero image */
-
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
-}
-
 #cover-text {
     font-size: 130%;
     font-family: Oswald, sans-serif;
@@ -389,5 +377,17 @@ footer .social-networks {
         width: 250px;
         right: calc(50% - 125px);
         padding: 0;
+    }
+}
+
+/* create the level of zoom for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
     }
 }
