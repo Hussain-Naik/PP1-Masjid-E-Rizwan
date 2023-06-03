@@ -279,6 +279,34 @@ footer .social-networks {
     color: var(--color3);
 }
 
+/* Prayer Times Page */
+
+.prayer-section {
+    display: flex;
+    gap: 1rem;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.prayer-times {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    width: 30%;
+    justify-content: center;
+}
+
+.prayer-times h3 {
+    width: 100%;
+    text-align: center;
+}
+
+.prayer-times .namaaz-start, .prayer-times .namaaz-jamaat {
+    text-align: center;
+}
+
 @media (max-width: 780px) {
 
     h2, h3 {
