@@ -348,8 +348,10 @@ footer .social-networks {
     backdrop-filter: blur(8px);
 }
 
-.frm-contact input{
+.frm-contact input, .frm-contact textarea, .frm-contact label{
     display: block;
+    width: 90%;
+    margin: auto;
 }
 @media (max-width: 780px) {
 
