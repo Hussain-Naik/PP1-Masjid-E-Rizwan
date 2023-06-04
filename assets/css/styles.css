@@ -388,6 +388,27 @@ footer .social-networks {
     background-color: var(--color1);
 }
 
+/* Response Page */
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.flex-column h3 {
+    text-align: center;
+}
+
+.flex-column p {
+    text-align: justify;
+}
+
+.flex-column .btn-contact {
+    width: 50%;
+}
 @media (max-width: 780px) {
 
     h2, h3 {
