@@ -367,6 +367,22 @@ footer .social-networks {
     outline-color: var(--color3) !important;
 }
 
+.frm-contact .btn-send {
+    padding: 1rem;
+    background-color: var(--color1);
+    border-radius: 15px;
+    color: var(--color2);
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.frm-contact .btn-send:hover {
+    color: transparent;
+    transition: .2s ease-in;
+    background: url('../images/send.png') no-repeat center center;
+    background-color: var(--color1);
+}
+
 @media (max-width: 780px) {
 
     h2, h3 {
