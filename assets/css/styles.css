@@ -338,7 +338,7 @@ footer .social-networks {
 /* Contact Page */
 .form-bg {
     background: url('../images/contact-bg.jpg') no-repeat center center;
-    height: calc(100vh - 126px);
+    height: calc(100vh - 125px);
     background-size: cover;
     min-height: 450px;
 }
