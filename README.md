@@ -36,6 +36,14 @@
 ### Typography
 ---
 ## Features
+
+### Home Page
+
+### Prayer Times Page
+
+### Contact Page
+
+### Response Page
 ---
 ## Testing
 ---
