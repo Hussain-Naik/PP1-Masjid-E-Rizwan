@@ -2,11 +2,11 @@
 
 ## User stories
 
-## Features
-
 ## Technologies Used
 
 ## Design
+
+## Features
 
 ## Testing
 
