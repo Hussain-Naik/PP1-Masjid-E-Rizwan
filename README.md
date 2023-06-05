@@ -24,7 +24,7 @@
 ---
 ## Deployment
 
-- The website was deployed to GitHub pages and can be accessed by the link: [Masjid-E-Rizwan](https://github.com/Hussain-Naik/PP1-Masjid-E-Rizwan)
+- The website was deployed to GitHub pages and can be accessed by the link: [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/)
 
 ---
 ## Future Improvements
