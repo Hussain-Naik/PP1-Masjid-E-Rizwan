@@ -39,6 +39,8 @@
 ---
 ## Testing
 ---
+## Bugs
+---
 ## Validator Testing
 
 ### HTML Validator
