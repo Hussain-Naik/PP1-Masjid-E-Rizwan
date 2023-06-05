@@ -40,6 +40,12 @@
 ## Testing
 ---
 ## Validator Testing
+
+### HTML Validator
+
+### CSS Validator
+
+### Lighthouse Accessibility and Performance
 ---
 ## Deployment
 
