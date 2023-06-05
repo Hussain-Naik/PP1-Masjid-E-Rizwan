@@ -12,6 +12,7 @@
 - Canva
 - Git
 - GitHub
+- Balsamiq Wireframes
 
 ---
 ## Design
