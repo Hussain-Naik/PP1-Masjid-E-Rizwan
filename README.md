@@ -15,6 +15,12 @@
 
 ---
 ## Design
+
+### Wireframe
+
+### Color Scheme
+
+### Typography
 ---
 ## Features
 ---
