@@ -23,6 +23,9 @@
 ## Validator Testing
 ---
 ## Deployment
+
+- The website was deployed to GitHub pages and can be accessed by the link: [Masjid-E-Rizwan](https://github.com/Hussain-Naik/PP1-Masjid-E-Rizwan)
+
 ---
 ## Future Improvements
 
