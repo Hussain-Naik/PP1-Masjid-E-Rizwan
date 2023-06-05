@@ -10,6 +10,8 @@
 - Google fonts
 - Visual Studio Code
 - Canva
+- Git
+- GitHub
 
 ---
 ## Design
