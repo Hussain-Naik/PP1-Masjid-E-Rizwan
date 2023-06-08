@@ -31,6 +31,12 @@
 
 ### Wireframe
 
+- Desktop Mockup
+![Desktop-wireframe](documentation/desktop-wireframe.png)
+
+- Mobile Mockup
+![mobile-wireframe](documentation/mobile-wireframe.png)
+
 ### Color Scheme
 
 ![color-palette](documentation/color-palette.png)
