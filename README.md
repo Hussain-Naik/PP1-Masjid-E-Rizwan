@@ -34,6 +34,7 @@
 ### Color Scheme
 
 ### Typography
+
 ---
 ## Features
 
@@ -46,6 +47,14 @@
 ### Response Page
 ---
 ## Testing
+
+### Home Page
+
+### Prayer Times Page
+
+### Contact Page
+
+### Response Page
 ---
 ## Bugs
 ---
