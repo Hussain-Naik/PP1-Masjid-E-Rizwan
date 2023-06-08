@@ -35,6 +35,10 @@
 
 ### Typography
 
+- Google Fonts
+    - [Arimo](https://fonts.google.com/specimen/Arimo?query=arimo) - used for heading and logo
+    - [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) - used for remaing body text
+
 ---
 ## Features
 
