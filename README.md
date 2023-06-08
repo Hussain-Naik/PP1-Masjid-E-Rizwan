@@ -33,6 +33,11 @@
 
 ### Color Scheme
 
+![color-palette](documentation/color-palette.png)
+- Main color 60% of site #F6F8FF Ghost White
+- Secondary color 30% of site #50453F Taupe
+- Action Color 10% of site #7BAE7F Cambridge blue
+
 ### Typography
 
 - Google Fonts
