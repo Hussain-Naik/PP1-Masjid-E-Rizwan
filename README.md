@@ -86,6 +86,9 @@
 
 - The website was deployed to GitHub pages and can be accessed by the link: [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/)
 
+- In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/Hussain-Naik/PP1-Masjid-E-Rizwan.git`
 ---
 ## Future Improvements
 
