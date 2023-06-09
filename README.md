@@ -65,25 +65,31 @@
 ## Testing
 
 ### Home Page
+- Manually tested all links working correctly
+- Manually tested all hover effects working correctly
+- Manually tested responsive display
 
 ### Prayer Times Page
 
-- Manually test all links working correctly
+- Manually tested all links working correctly
 - Manually tested all hover effects working correctly
-- 
+- Manually tested responsive display
 
 ### Contact Page
 
-- Manually test all links working correctly
+- Manually tested all links working correctly
 - Manually tested all hover effects working correctly
 - All form required fields tested
 - form submit button tested
+- Manually tested responsive display
 
 ### Response Page
 
 - Manually test all links working correctly
 - Manually tested all hover effects working correctly
 - Response page 5 second timer to redirect working
+- Manually tested responsive display
+
 ---
 ## Bugs
 
