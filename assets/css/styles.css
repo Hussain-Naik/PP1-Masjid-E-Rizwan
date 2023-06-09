@@ -417,7 +417,7 @@ footer .social-networks {
     }
 
     nav #logo{
-        width: 745px;
+        /* width: 745px; */
         left: 0;
         padding-left: 2rem;
         position: fixed;
@@ -452,6 +452,11 @@ footer .social-networks {
 
     hr {
         height: 75px;
+    }
+
+    header hr {
+        height: 76px;
+        background-color: var(--color1);
     }
 
     #hero-outer {
