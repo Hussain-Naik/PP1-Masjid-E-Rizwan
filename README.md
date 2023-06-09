@@ -94,7 +94,14 @@
 
 ### Unsolved Bugs
 
+- None
+
 ### Mistakes
+
+- Commit with more than 50 characters made early during development
+- Commits made without saving displaying no changes
+- Commits with spelling error
+
 ---
 ## Validator Testing
 
