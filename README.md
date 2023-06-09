@@ -1,4 +1,5 @@
 # Masjid-E-Rizwan
+![Masjid-E-Rizwan](documentation/responsive-display.png)
 ---
 ## User stories
 
