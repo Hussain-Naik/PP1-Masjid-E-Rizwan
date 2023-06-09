@@ -68,11 +68,33 @@
 
 ### Prayer Times Page
 
+- Manually test all links working correctly
+- Manually tested all hover effects working correctly
+- 
+
 ### Contact Page
 
+- Manually test all links working correctly
+- Manually tested all hover effects working correctly
+- All form required fields tested
+- form submit button tested
+
 ### Response Page
+
+- Manually test all links working correctly
+- Manually tested all hover effects working correctly
+- Response page 5 second timer to redirect working
 ---
 ## Bugs
+
+### Solved Bugs
+
+- Navigation logo too large was set with fixed width
+    - Solved by removing width on logo and setting hr background color to fill remaining navigation
+
+### Unsolved Bugs
+
+### Mistakes
 ---
 ## Validator Testing
 
