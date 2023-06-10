@@ -173,6 +173,9 @@
 - Navigation logo too large was set with fixed width
     - Solved by removing width on logo and setting hr background color to fill remaining navigation
 
+- Redirect not working on response page
+    - Solved by adding full file page to github pages deployment url.
+
 ### Unsolved Bugs
 
 - None
