@@ -65,7 +65,7 @@
         * Prayer Times - Link to page that displays 5 daily prayer for the week.
         * Contact Us - link to the contact form page.
     - The links have animated hover effect.
-    
+
     ![Navigation](documentation/home-navigation.png)
 
 - Footer Section
@@ -102,13 +102,40 @@
     ![Contact Us Section](documentation/home-contact-section.png)
 
 
-
-
 ### Prayer Times Page
+
++ Display 5 daily prayers for a week
+    - Heading for each day.
+    - Same background image for each day.
+    - Displayed as float with 2 days displayed in a row for smaller resolutions.
+    - Each days contains the 5 daily prayer start time and Jamaat(congregation) time.
+    - Every prayer is set with the taupe background color
+    - Jamaat time color set with call to action color
+
+    ![Prayer Times](documentation/prayer-times.png)
 
 ### Contact Page
 
++ Contact Form
+    - Background image to span across page
+    - form is centered on page.
+    - form background set to blur background
+    - All 3 input fields are requried
+    - Form submit button having icon animation hover
+
+    ![Contact Page](documentation/contact-page.png)
+
 ### Response Page
+
++ Success Message Response
+    - Background image to span across page same as contact page
+    - Success message styled to look it replaced contact form.
+    - Success message background set to blur background
+    - Set to redirect to home page in 5 seconds
+    - Home page button link also added
+
+    ![Response Page](documentation/response-page.png)
+
 ---
 ## Testing
 
