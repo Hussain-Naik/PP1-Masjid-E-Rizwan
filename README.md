@@ -83,7 +83,7 @@
 
 + About Us Section
     - About Us Section has 4 short paragraphs.
-    - Tells website visitors basic information regarding the mosque.
+    - Tells website visitors basic information regarding the mosque and Islam.
 
     ![About us Section](documentation/home-abouts-section.png)
 
@@ -174,7 +174,7 @@
     - Solved by removing width on logo and setting hr background color to fill remaining navigation
 
 - Redirect not working on response page
-    - Solved by adding full file page to github pages deployment url.
+    - Solved by adding index file path to url.
 
 ### Unsolved Bugs
 
