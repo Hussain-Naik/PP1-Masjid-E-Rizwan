@@ -54,7 +54,55 @@
 ---
 ## Features
 
+### Consistant Features
+- Nav Section
+    - Positioned at the top of the page.
+    - Contains logo of the company on the left side which also acts as a link back to home page.
+    - Contains navigation links on the right side:
+        * Home - link back to home page.
+        * About Us - link to home page about section with smooth scroll.
+        * Events - link to home page events section with smooth scroll.
+        * Prayer Times - Link to page that displays 5 daily prayer for the week.
+        * Contact Us - link to the contact form page.
+    - The links have animated hover effect.
+    
+    ![Navigation](documentation/home-navigation.png)
+
+- Footer Section
+    - Footer contains social media links that open in a new tab.
+​
+    ![Footer](documentation/home-footer.png)
 ### Home Page
++ Hero Section
+    - Hero section have a fixed background image with animation on load.
+    - Hero section have the block section below the image that consist:
+        * The name of the mosque.
+        * The year the mosque was first opened.
+    
+    ![Hero Section](documentation/home-hero-section.png)
+
++ About Us Section
+    - About Us Section has 4 short paragraphs.
+    - Tells website visitors basic information regarding the mosque.
+
+    ![About us Section](documentation/home-abouts-section.png)
+
++ Events Section
+    - Events Section has five current activities held at the mosque.
+    - Each event has a day and time assigned.
+    - One image spans accoss all events for desktop view.
+    - Each event include a font awesome icon.
+
+    ![Events Section](documentation/home-events-section.png)
+
++ Contact Us Section
+    - Contact Section has an explicit message for the visitors of the website to contact the company.
+    - Is also has a button that directs to the contact page.
+​
+    ![Contact Us Section](documentation/home-contact-section.png)
+
+
+
 
 ### Prayer Times Page
 
