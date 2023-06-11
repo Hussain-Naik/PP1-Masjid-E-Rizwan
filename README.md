@@ -284,7 +284,7 @@ Each device tested the site using the following browsers:
 - Contact Page using lighthouse in devtools I confirmed that the page is performing well, accessible and colors and fonts chosen are readable.
 ![Contact Page](documentation/contact-lighthouse.png)
 
-- Response Page using lighthouse in devtools I confirmed that the page is performing well, accessible and colors and fonts chosen are readable. Exception for the Accessibilty due to the refresh meta tag
+- Response Page using lighthouse in devtools I confirmed that the page is performing well with exception for the Accessibilty due to the refresh meta tag
 ![Response Page](documentation/response-lighthouse.png)
 
 ---
