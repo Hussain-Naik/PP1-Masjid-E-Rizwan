@@ -204,6 +204,13 @@ Each device tested the site using the following browsers:
 | Youtube icon | Link directs the user to Youtube site | Clicked link | Youtube opens in new tab | Pass |
 | Instagram icon | Link directs the user to Instagram site | Clicked link | Instagram opens in new tab | Pass |
 | All Link - hover effect | Animation of green underline when hovered | Hover over all links on page | Each link displayed correct styling when hovered over | Pass |
+| Form name input | prompt user to enter name if left empty | Clicked Send | Message displaying user to enter name | Pass |
+| Form email input | prompt user to enter email if left empty | Clicked Send | Message displaying user to enter email | Pass |
+| Form email input | prompt user to enter valid email | Clicked Send | Message displaying user to enter valid email | Pass |
+| Form message input | prompt user to enter message if left empty | Clicked Send | Message displaying user to enter message | Pass |
+| Form submit button | Direct user to response page | Clicked Send | Response page loads | Pass |
+| Form submit button hover animation | Green paper plane to be displayed when hovered | Hover over send | Hover animation displayed | Pass |
+
 
 `Response Page`
 
