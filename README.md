@@ -213,4 +213,8 @@
 
 ---
 ## Credits
+
+- All images are taken from unsplash, pixabay and freepic website or created using canva.
+- favicon was made using faviconer.com.
+
 ---
