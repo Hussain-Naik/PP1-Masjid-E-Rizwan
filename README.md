@@ -274,6 +274,19 @@ Each device tested the site using the following browsers:
 ![css](documentation/css-validator.png)
 
 ### Lighthouse Accessibility and Performance
+
+- Home Page using lighthouse in devtools I confirmed that the page is performing well, accessible and colors and fonts chosen are readable.
+![Home Page](documentation/home-lighthouse.png)
+
+- Prayer Times Page using lighthouse in devtools I confirmed that the page is performing well, accessible and colors and fonts chosen are readable.
+![Praye Times Page](documentation/prayer-times-lighthouse.png)
+
+- Contact Page using lighthouse in devtools I confirmed that the page is performing well, accessible and colors and fonts chosen are readable.
+![Contact Page](documentation/contact-lighthouse.png)
+
+- Response Page using lighthouse in devtools I confirmed that the page is performing well, accessible and colors and fonts chosen are readable. Exception for the Accessibilty due to the refresh meta tag
+![Response Page](documentation/response-lighthouse.png)
+
 ---
 ## Deployment
 
