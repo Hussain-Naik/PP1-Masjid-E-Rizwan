@@ -1,5 +1,36 @@
 # Masjid-E-Rizwan
 ![Masjid-E-Rizwan](documentation/responsive-display.png)
+
+---
+## Contents
+
+- [User Stories](#user-stories)
+- [Technologies Used](#technologies-used)
+- [Design](#design)
+    - [Wireframes](#wireframe)
+    - [Color Schemes](#color-scheme)
+    - [Typography](#typography)
+- [Features](#features)
+    - [Common Features](#common-features)
+    - [Home Page](#home-page)
+    - [Prayer Times Page](#prayer-times-page)
+    - [Contact Page](#contact-page)
+    - [Response Page](#response-page)
+- [Testing](#testing)
+    - [Full Testing](#full-testing)
+- [Bugs](#bugs)
+    - [Solved Bugs](#solved-bugs)
+    - [Unsolved Bugs](#unsolved-bugs)
+    - [Mistakes](#mistakes)
+- [Validator Testing](#validator-testing)
+    - [HTML Validator](#html-validator)
+    - [CSS Validator](#css-validator)
+    - [Lighthouse Reports](#lighthouse-accessibility-and-performance)
+- [Deployment](#deployment)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+- [Acknowledgements](#acknowledgments)
+
 ---
 ## User stories
 
@@ -54,7 +85,7 @@
 ---
 ## Features
 
-### Consistant Features
+### Common Features
 - Nav Section
     - Positioned at the top of the page.
     - Contains logo of the company on the left side which also acts as a link back to home page.
