@@ -420,7 +420,8 @@ footer .social-networks {
         left: 0;
         padding-left: 2rem;
         position: fixed;
-        background-color: var(--color1); 
+        background-color: var(--color1);
+        z-index: 11;
     }
 
     nav #menu {
@@ -431,7 +432,7 @@ footer .social-networks {
         left: 25%;
         width: 100%;
         height: calc(100vh - 75px);
-        z-index: 1;
+        z-index: 11;
         transition: .6s;
         transform: translateX(100%);
     }
@@ -446,7 +447,7 @@ footer .social-networks {
         display: grid !important;
         position: fixed;
         right: 2rem;
-        z-index: 1;
+        z-index: 11;
     }
 
     hr {
@@ -456,10 +457,14 @@ footer .social-networks {
     header hr {
         height: 76px;
         background-color: var(--color1);
+        position: fixed;
+        width: 780px;
+        z-index: 10;
     }
 
     #hero-outer {
         height: 300px;
+        top: 75px;
     }
 
     #hero-image {
