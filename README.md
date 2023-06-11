@@ -256,7 +256,22 @@ Each device tested the site using the following browsers:
 
 ### HTML Validator
 
+- Home Page no errors or warnings were found when passing through the official W3C validator.
+![Home Page](documentation/index-validator.png)
+
+- Prayer Times Page no errors or warnings were found when passing through the official W3C validator.
+![Praye Times Page](documentation/prayertimes-validator.png)
+
+- Contact Page no errors or warnings were found when passing through the official W3C validator.
+![Contact Page](documentation/contact-validator.png)
+
+- Response Page no errors or warnings were found when passing through the official W3C validator.
+![Response Page](documentation/response-page-validator.png)
+
 ### CSS Validator
+
+- No errors or warnings were found when passing through the official W3C (Jigsaw)
+![css](documentation/css-validator.png)
 
 ### Lighthouse Accessibility and Performance
 ---
