@@ -218,3 +218,16 @@
 - favicon was made using faviconer.com.
 
 ---
+## Acknowledgments
+
+- Due to the nature of the project the first form of acknowledegement is to Allah with the common islamic phrase Alhamdulillah (roughly equivalent to "thank God". Literally it means "all praise is to God")
+- Secondly the Masjid-E-Rizwan committee for their continued support
+- [Aleksei Konovalov](https://github.com/lexach91) great guidance and mentor throughout project
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+- [Kevin Powell](https://www.youtube.com/user/KepowOb) Flex display tutorials.
+- [Hossein](https://www.youtube.com/@CodeWithHossein) Hamburger menu css tutorial.
+- [Coding Artist](https://www.youtube.com/@CodingArtist) CSS hover animation tutorial.
+- [Kera Cudmore](https://github.com/kera-cudmore) Comprehensive README.md guide.
+
+
+---
