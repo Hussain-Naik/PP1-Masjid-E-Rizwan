@@ -1,6 +1,8 @@
 # Masjid-E-Rizwan
 ![Masjid-E-Rizwan](documentation/responsive-display.png)
 
+The Masjid-E-Rizwan website allows people to learn about the mosque and Islam and find information about prayer times, extra acitivies and facilities. The visitors of the website could quickly contact the mosque with a simple but effective contact form.
+
 ---
 ## Contents
 
@@ -340,6 +342,7 @@ Each device tested the site using the following browsers:
 
 - All images are taken from unsplash, pixabay and freepic website or created using canva.
 - favicon was made using faviconer.com.
+- the code for the footer was taken from the CI love running project
 
 ---
 ## Acknowledgments
