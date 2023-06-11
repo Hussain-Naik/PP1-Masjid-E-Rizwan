@@ -139,31 +139,89 @@
 ---
 ## Testing
 
-### Home Page
-- Manually tested all links working correctly
-- Manually tested all hover effects working correctly
-- Manually tested responsive display
+### Full Testing
 
-### Prayer Times Page
+Full testing was performed on the following devices:
 
-- Manually tested all links working correctly
-- Manually tested all hover effects working correctly
-- Manually tested responsive display
+- Decktop:
+  - Mac Mini 2014
+- Mobile Devices:
+  * iPhone SE (3rd Gen).
+  * iPhone X
 
-### Contact Page
 
-- Manually tested all links working correctly
-- Manually tested all hover effects working correctly
-- All form required fields tested
-- form submit button tested
-- Manually tested responsive display
+Each device tested the site using the following browsers:
 
-### Response Page
+* Google Chrome
+* Safari
+* Firefox
 
-- Manually test all links working correctly
-- Manually tested all hover effects working correctly
-- Response page 5 second timer to redirect working
-- Manually tested responsive display
+`Home Page`
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| About Us link | Link scrolls to about us section on home page | Clicked link | page scrolls down until about us section | Pass |
+| Events link | Link scrolls to events section on home page | Clicked link | page scrolls down until events section | Pass |
+| Prayer Times link | Link directs the user to Prayer Times page | Clicked link | Prayer Times Page loads | Pass |
+| Contact Us link | Link directs the user to Contact page | Clicked link | Contact Page loads | Pass |
+| Get in Touch button | Link directs the user to Contact page | Clicked button | Contact Page loads | Pass |
+| Facebook icon | Link directs the user to Facebook site | Clicked link | Facebook opens in new tab | Pass |
+| Twitter icon | Link directs the user to Twitter site | Clicked link | Twitter opens in new tab | Pass |
+| Youtube icon | Link directs the user to Youtube site | Clicked link | Youtube opens in new tab | Pass |
+| Instagram icon | Link directs the user to Instagram site | Clicked link | Instagram opens in new tab | Pass |
+| All Link - hover effect | Animation of green underline when hovered | Hover over all links on page | Each link displayed correct styling when hovered over | Pass |
+
+`Prayer Times Page`
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| About Us link | Link scrolls to about us section on home page | Clicked link | home page loads then page scrolls down until about us section | Pass |
+| Events link | Link scrolls to events section on home page | Clicked link | home page loads then page scrolls down until events section | Pass |
+| Prayer Times link | Link directs the user to Prayer Times page | Clicked link | Prayer Times Page loads | Pass |
+| Contact Us link | Link directs the user to Contact page | Clicked link | Contact Page loads | Pass |
+| Facebook icon | Link directs the user to Facebook site | Clicked link | Facebook opens in new tab | Pass |
+| Twitter icon | Link directs the user to Twitter site | Clicked link | Twitter opens in new tab | Pass |
+| Youtube icon | Link directs the user to Youtube site | Clicked link | Youtube opens in new tab | Pass |
+| Instagram icon | Link directs the user to Instagram site | Clicked link | Instagram opens in new tab | Pass |
+| All Link - hover effect | Animation of green underline when hovered | Hover over all links on page | Each link displayed correct styling when hovered over | Pass |
+
+`Contact Page`
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| About Us link | Link scrolls to about us section on home page | Clicked link | home page loads then page scrolls down until about us section | Pass |
+| Events link | Link scrolls to events section on home page | Clicked link | home page loads then page scrolls down until events section | Pass |
+| Prayer Times link | Link directs the user to Prayer Times page | Clicked link | Prayer Times Page loads | Pass |
+| Contact Us link | Link directs the user to Contact page | Clicked link | Contact Page loads | Pass |
+| Facebook icon | Link directs the user to Facebook site | Clicked link | Facebook opens in new tab | Pass |
+| Twitter icon | Link directs the user to Twitter site | Clicked link | Twitter opens in new tab | Pass |
+| Youtube icon | Link directs the user to Youtube site | Clicked link | Youtube opens in new tab | Pass |
+| Instagram icon | Link directs the user to Instagram site | Clicked link | Instagram opens in new tab | Pass |
+| All Link - hover effect | Animation of green underline when hovered | Hover over all links on page | Each link displayed correct styling when hovered over | Pass |
+
+`Response Page`
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Home link | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| About Us link | Link scrolls to about us section on home page | Clicked link | home page loads then page scrolls down until about us section | Pass |
+| Events link | Link scrolls to events section on home page | Clicked link | home page loads then page scrolls down until events section | Pass |
+| Prayer Times link | Link directs the user to Prayer Times page | Clicked link | Prayer Times Page loads | Pass |
+| Contact Us link | Link directs the user to Contact page | Clicked link | Contact Page loads | Pass |
+| Home Page button | Link directs the user back to the home page | Clicked link | Home page reloads | Pass |
+| Facebook icon | Link directs the user to Facebook site | Clicked link | Facebook opens in new tab | Pass |
+| Twitter icon | Link directs the user to Twitter site | Clicked link | Twitter opens in new tab | Pass |
+| Youtube icon | Link directs the user to Youtube site | Clicked link | Youtube opens in new tab | Pass |
+| Instagram icon | Link directs the user to Instagram site | Clicked link | Instagram opens in new tab | Pass |
+| All Link - hover effect | Animation of green underline when hovered | Hover over all links on page | Each link displayed correct styling when hovered over | Pass |
+| Auto Redirect in 5 seconds | Redirects user to home page in 5 seconds | Waited 5 seconds | Home page loads | Pass |
 
 ---
 ## Bugs
