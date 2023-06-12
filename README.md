@@ -100,26 +100,44 @@ The [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/) websi
         * Contact Us - link to the contact form page.
     - The links have animated hover effect.
 
+    - Desktop
     ![Navigation](documentation/home-navigation.png)
+
+    - Mobile 
+    ![Navigation](documentation/nav-mobile.png)
+    ![Menu](documentation/menu-mobile.png)
 
 - Footer Section
     - Footer contains social media links that open in a new tab.
-​
+
+    - Desktop
     ![Footer](documentation/home-footer.png)
+
+    - Mobile
+    ![Footer](documentation/footer-mobile.png)
+
 ### Home Page
 + Hero Section
     - Hero section have a fixed background image with animation on load.
     - Hero section have the block section below the image that consist:
         * The name of the mosque.
         * The year the mosque was first opened.
-    
+
+    - Desktop
     ![Hero Section](documentation/home-hero-section.png)
+
+    - Mobile
+    ![Hero Section](documentation/hero-mobile.png)
 
 + About Us Section
     - About Us Section has 4 short paragraphs.
     - Tells website visitors basic information regarding the mosque and Islam.
 
+    - Desktop
     ![About us Section](documentation/home-abouts-section.png)
+
+    - Mobile
+    ![About Us](documentation/about-mobile.png)
 
 + Events Section
     - Events Section has five current activities held at the mosque.
@@ -127,14 +145,21 @@ The [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/) websi
     - One image spans accoss all events for desktop view.
     - Each event include a font awesome icon.
 
+    - Desktop
     ![Events Section](documentation/home-events-section.png)
+
+    - Mobile
+    ![Events](documentation/events-mobile.png)
 
 + Contact Us Section
     - Contact Section has an explicit message for the visitors of the website to contact the company.
     - Is also has a button that directs to the contact page.
-​
+
+    - Desktop
     ![Contact Us Section](documentation/home-contact-section.png)
 
+    - Mobile
+    ![Contact Section](documentation/contact-mobile.png)
 
 ### Prayer Times Page
 
@@ -146,7 +171,11 @@ The [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/) websi
     - Every prayer is set with the taupe background color
     - Jamaat time color set with call to action color
 
+    - Desktop
     ![Prayer Times](documentation/prayer-times.png)
+
+    - Mobile
+    ![Prayer Times](documentation/prayer-times-mobile.png)
 
 ### Contact Page
 
@@ -157,7 +186,11 @@ The [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/) websi
     - All 3 input fields are requried
     - Form submit button having icon animation hover
 
+    - Desktop
     ![Contact Page](documentation/contact-page.png)
+
+    - Mobile
+    ![Contact Page](documentation/contact-page-mobile.png)
 
 ### Response Page
 
@@ -168,7 +201,11 @@ The [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/) websi
     - Set to redirect to home page in 5 seconds
     - Home page button link also added
 
+    - Desktop
     ![Response Page](documentation/response-page.png)
+
+    - Mobile
+    ![Response Page](documentation/response-mobile.png)
 
 ---
 ## Testing
