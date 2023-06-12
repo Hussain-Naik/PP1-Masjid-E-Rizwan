@@ -275,7 +275,7 @@ Each device tested the site using the following browsers:
     - Solved by adding index file path to url.
 
 - Home contact section chat image background
-    - Changed to img and wrapped left and right in new div with 100% width and display flex
+    - Changed to img and wrapped left and right class in new div with 100% width and display flex
 
 - Contact form textarea resizable
     - Added CSS rule to only resize vertically and added max height to input
