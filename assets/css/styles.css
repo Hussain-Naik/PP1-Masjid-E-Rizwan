@@ -359,6 +359,11 @@ footer .social-networks {
     margin: auto;
     
 }
+
+.frm-contact textarea {
+    resize: vertical;
+    max-height: 160px;
+}
 .frm-contact label {
     padding-left: 2rem;
 }
