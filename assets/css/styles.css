@@ -409,6 +409,21 @@ footer .social-networks {
 .flex-column .btn-contact {
     width: 50%;
 }
+
+
+/* create the level of zoom for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+/* Media queries for differnet screen sizes*/
 @media (max-width: 780px) {
 
     h2, h3 {
@@ -526,17 +541,5 @@ footer .social-networks {
 
     .prayer-day {
         width: 100%;
-    }
-}
-
-/* create the level of zoom for hero image */
-
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
     }
 }
