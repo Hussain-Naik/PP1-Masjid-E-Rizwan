@@ -1,7 +1,7 @@
 # Masjid-E-Rizwan
 ![Masjid-E-Rizwan](documentation/responsive-display.png)
 
-The Masjid-E-Rizwan website allows people to learn about the mosque and Islam and find information about prayer times, extra acitivies and facilities. The visitors of the website could quickly contact the mosque with a simple but effective contact form.
+The [Masjid-E-Rizwan](https://hussain-naik.github.io/PP1-Masjid-E-Rizwan/) website allows people to learn about the mosque and Islam and find information about prayer times, extra acitivies and facilities. The visitors of the website could quickly contact the mosque with a simple but effective contact form.
 
 ---
 ## Contents
@@ -50,15 +50,16 @@ The Masjid-E-Rizwan website allows people to learn about the mosque and Islam an
 ---
 ## Technologies Used
 
-- HTML
-- CSS
-- Font Awesome icons
-- Google fonts
-- Visual Studio Code
-- Canva
-- Git
-- GitHub
-- Balsamiq Wireframes
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css)
+- [Font Awesome icons](https://fontawesome.com/)
+- [Google fonts](https://fonts.google.com/)
+- [VSCode](https://code.visualstudio.com/)
+- [Canva](https://www.canva.com/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+- [Balsamiq Wireframes](https://balsamiq.com/)
 
 ---
 ## Design
@@ -346,9 +347,9 @@ Each device tested the site using the following browsers:
 ---
 ## Credits
 
-- All images are taken from unsplash, pixabay and freepic website or created using canva.
-- favicon was made using faviconer.com.
-- the code for the footer was taken from the CI love running project
+- All images are taken from [unsplash](https://unsplash.com/), [pixabay](https://pixabay.com/) and [freepik](https://www.freepik.com/) website or created using [canva]().
+- favicon was made using [faviconer.com](http://www.faviconer.com/).
+- the code for the footer was taken from the CI [love running](https://github.com/Hussain-Naik/love-running) project
 
 ---
 ## Acknowledgments
