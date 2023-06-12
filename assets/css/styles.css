@@ -229,16 +229,15 @@ input:checked ~ nav .menu-toggle .bar:nth-child(3) {
     justify-content: center;
 }
 
+.contact-middle {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
 .contact-left {
     color: var(--color1);
-    width: 40%;
-    background: url('../images/chat-image.png') no-repeat center center;
-    flex-grow: 1;
-}
-
-.contact-right {
-    width: 40%;
-    flex-grow: 1;
+    height: 128px;
+    margin: auto 0;
 }
 
 .contact-right li {
@@ -515,10 +514,6 @@ footer .social-networks {
 
     section h2{
         padding-left: 0;
-    }
-
-    .contact-left {
-        width: 50%;
     }
     
     .contact-right {
